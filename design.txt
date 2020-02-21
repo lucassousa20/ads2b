@@ -1,0 +1,13 @@
+Para que todas as requisições sejam feitas o sistema deverá conter componentes que devem:
+
+Componente Aplicativo: mostrar na tela para que o usuário informe seu usuario e senha. Após isso informar origem e destino da viagem, selecionar o tipo de serviço e confirmar a corrida;
+
+Componente Localização: irá localizar o usuário e o carro mais próximo;
+
+Componente Preço: irá calcular o valor da corrida;
+
+Componente de pagamento: validar se dados de pagamento e limite estão ok;
+
+Componente Notification Push: usuário ira receber notificação quando motorista estiver se aproximando.
+
+Componente WEB: integrar todos os compontes de localização, preço e pagamento para que o serviço esteja disponivel no browser.

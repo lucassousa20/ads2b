@@ -1,0 +1,13 @@
+A empresa X quer desenvolver um sistema utilizando carros que voam para realizar viagens com seus usuários que atendam o preço de ate 10 dólares por viagem.
+
+Para isso, o Sistema deve:
+
+Ao iniciar o programa, solicitar que o usuário informe um email e senha para identificação. Onde cadastro deverá conter informações sobre nome, contato, CPF e forma de pagamento da viagem.
+
+Após o login, informar a origem e destino da viagem e escolher o tipo de serviço que deseja (Viagem Compartilhada ou Express);
+
+Depois o sistema irá retornar o valor da corrida;
+
+Após a confirmação do pagamento, o sistema procurará o motorista mais próximo para a viagem ser confirmada;
+
+Todos os veículos precisam estar registrado com informações sobre o nome do motorista, modelo, placa do carro e qual serviço atende.

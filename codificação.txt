@@ -1,0 +1,7 @@
+Para o desenvilvimento do Sistema escolhemos usar a Linguagem Python pois é uma linguagem clara, interpretada e rapida que irá facilitar na implatação do sistema.
+
+Tambem usaremos HTML + CSS, e JavaScrip para o front-end pela familiaridade com a linguagem e com a facilidade de sintaxe e semantica para o desenvolvimento 	
+
+Como Framework será usado o Kivy, pois ela já possui uma interface de usuario e sua aplicação pode ser executa em Android, IOS, Windows e Linux;
+
+Iremos usar a arquitetura Microservices, dividindo cada componente em modulos, o que facilitara a manutenção do sistema.

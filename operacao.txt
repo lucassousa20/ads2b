@@ -1,0 +1,1 @@
+A cada 1 hora teremos um time que ira verificar o funcionamento do sistema, e enviando as demandas de correções para outros times que ficarão responsavel com a sulução do problema de cada componente.	

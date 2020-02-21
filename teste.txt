@@ -1,0 +1,21 @@
+Usuário conseguiu logar com o usario - OK
+
+Usuário conseguiu colocar origem e destino da viagem - OK
+
+Usuário conseguiu visualizar e selecionar tipo de serviço - OK
+
+Usuário consguiu informar forma de pagamento - OK
+
+Pagamento confirmado - OK
+
+Motoristas receberam solicitação de viagem - OK
+
+Motorista conseguiu visualizar localização do usuário - OK
+
+Solicitação concluida - OK
+
+Viagem iniciada - OK
+
+Usuário chegou ao local de destino - OK
+
+Viagem concluida - OK
